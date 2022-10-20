@@ -1,0 +1,16 @@
+{
+	"client": {
+		"token": "",
+		"id": "794950126551957504",
+		"defaultColor": "#FFFFFF"
+	},
+	"guilds": {
+		"bts": "795047388985032727"
+	},
+	"db": {
+		"host": "localhost",
+		"database": "bot",
+		"user": "root",
+		"password": ""
+	}
+}
