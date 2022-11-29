@@ -1,0 +1,29 @@
+.loginInput{
+    border-radius: 5px;
+    height:40px;
+    width:100%;
+    margin:10px;
+}
+.button{
+    border-radius:5px;
+    background-color: #61dafb;
+    align-items:center;
+    justify-content:center;
+    font-weight:bold;
+    font-size:large;
+    width:60%;
+    height:40px;
+}
+.alertText{
+    color:red;
+}
+.loginDiv{
+    display:flex;
+    flex-direction:column;
+    width:fit-content;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    background-color: #282c34;
+
+    }
